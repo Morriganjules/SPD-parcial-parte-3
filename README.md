@@ -2,7 +2,7 @@
 
  - Julian Ferreira.
 
-# Proyecto contador lineal y de numero primos.
+# Proyecto contador, con fotoresistor y sensor de fuerza.
 
 
 ![proyecto](proyectoParte3.jpg)
